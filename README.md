@@ -17,4 +17,5 @@ nodemon server.js
 Visit
 ---
 http://localhost:3000/
+
 http://localhost:3000/bmicalculator
