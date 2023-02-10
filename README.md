@@ -3,16 +3,18 @@
 
 Install
 ```
-npm init 
-
-npm install express --save
-
-npm install -g nodemon
+npm i
 ```
 
-Run
+###Run
 ```
-nodemon server.js 
+node server.js 
+```
+
+### Run with Nodemon
+
+```
+nodemon app.js
 ```
 Visit
 ---
