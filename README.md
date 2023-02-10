@@ -14,7 +14,7 @@ node server.js
 ### Run with Nodemon
 
 ```
-nodemon app.js
+nodemon server.js
 ```
 Visit
 ---
